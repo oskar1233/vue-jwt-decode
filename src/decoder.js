@@ -1,7 +1,7 @@
 export default {
   install: function(Vue) {
-    Vue.prototype.$jwt = this
-    Vue.jwt = this
+    Vue.prototype.$jwtDec = this
+    Vue.jwtDec = this
   },
   decode:  function(jwt) {
     if(typeof jwt !== 'string' & !jwt instanceof String) return null

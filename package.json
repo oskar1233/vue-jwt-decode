@@ -1,6 +1,6 @@
 {
   "name": "vue-jwt-decode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tiny JWT decoder for Vue.js",
   "author": "Oskar Laska <ooskar1233@yahoo.com>",
   "main": "dist/lib/vue-jwt-decode.min.js",
