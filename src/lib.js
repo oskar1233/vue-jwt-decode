@@ -1,3 +1,3 @@
-import vueJwtDecode from './components/hello'
+import decoder from './decoder'
 
-export default vueJwtDecode
+export default decoder
