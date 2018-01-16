@@ -23,3 +23,7 @@ Vue.jwtDec("<your jwt>")
 // or in component
 this.$jwtDec("<your jwt>")
 ```
+
+### Error handling
+
+The lib is so tiny it doesn't have any error handling. You'll need to `try` - `catch` by yourself.
